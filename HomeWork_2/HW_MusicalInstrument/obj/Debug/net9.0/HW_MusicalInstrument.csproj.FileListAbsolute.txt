@@ -1,0 +1,15 @@
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_MusicalInstrument\bin\Debug\net9.0\HW_MusicalInstrument.exe
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_MusicalInstrument\bin\Debug\net9.0\HW_MusicalInstrument.deps.json
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_MusicalInstrument\bin\Debug\net9.0\HW_MusicalInstrument.runtimeconfig.json
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_MusicalInstrument\bin\Debug\net9.0\HW_MusicalInstrument.dll
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_MusicalInstrument\bin\Debug\net9.0\HW_MusicalInstrument.pdb
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_MusicalInstrument\obj\Debug\net9.0\HW_MusicalInstrument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_MusicalInstrument\obj\Debug\net9.0\HW_MusicalInstrument.AssemblyInfoInputs.cache
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_MusicalInstrument\obj\Debug\net9.0\HW_MusicalInstrument.AssemblyInfo.cs
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_MusicalInstrument\obj\Debug\net9.0\HW_MusicalInstrument.csproj.CoreCompileInputs.cache
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_MusicalInstrument\obj\Debug\net9.0\HW_MusicalInstrument.sourcelink.json
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_MusicalInstrument\obj\Debug\net9.0\HW_MusicalInstrument.dll
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_MusicalInstrument\obj\Debug\net9.0\refint\HW_MusicalInstrument.dll
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_MusicalInstrument\obj\Debug\net9.0\HW_MusicalInstrument.pdb
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_MusicalInstrument\obj\Debug\net9.0\HW_MusicalInstrument.genruntimeconfig.cache
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_MusicalInstrument\obj\Debug\net9.0\ref\HW_MusicalInstrument.dll

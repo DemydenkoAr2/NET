@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_Money", "HW_Money\HW_Money.csproj", "{8BB57D88-7650-418E-8DC5-2258B56A27A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_MusicalInstrument", "HW_MusicalInstrument\HW_MusicalInstrument.csproj", "{FF605E9C-B069-4472-8C92-1BDFA3BEE1FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_DecimalNumber", "HW_DecimalNumber\HW_DecimalNumber.csproj", "{6682180A-9BE1-4BF7-854C-46D2DAFA9F9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB57D88-7650-418E-8DC5-2258B56A27A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB57D88-7650-418E-8DC5-2258B56A27A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB57D88-7650-418E-8DC5-2258B56A27A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB57D88-7650-418E-8DC5-2258B56A27A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF605E9C-B069-4472-8C92-1BDFA3BEE1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF605E9C-B069-4472-8C92-1BDFA3BEE1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF605E9C-B069-4472-8C92-1BDFA3BEE1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF605E9C-B069-4472-8C92-1BDFA3BEE1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6682180A-9BE1-4BF7-854C-46D2DAFA9F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6682180A-9BE1-4BF7-854C-46D2DAFA9F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6682180A-9BE1-4BF7-854C-46D2DAFA9F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6682180A-9BE1-4BF7-854C-46D2DAFA9F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
