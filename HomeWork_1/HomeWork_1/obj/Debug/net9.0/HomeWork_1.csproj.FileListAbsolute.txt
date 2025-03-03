@@ -1,0 +1,15 @@
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_1\HomeWork_1\bin\Debug\net9.0\HomeWork_1.exe
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_1\HomeWork_1\bin\Debug\net9.0\HomeWork_1.deps.json
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_1\HomeWork_1\bin\Debug\net9.0\HomeWork_1.runtimeconfig.json
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_1\HomeWork_1\bin\Debug\net9.0\HomeWork_1.dll
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_1\HomeWork_1\bin\Debug\net9.0\HomeWork_1.pdb
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_1\HomeWork_1\obj\Debug\net9.0\HomeWork_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_1\HomeWork_1\obj\Debug\net9.0\HomeWork_1.AssemblyInfoInputs.cache
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_1\HomeWork_1\obj\Debug\net9.0\HomeWork_1.AssemblyInfo.cs
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_1\HomeWork_1\obj\Debug\net9.0\HomeWork_1.csproj.CoreCompileInputs.cache
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_1\HomeWork_1\obj\Debug\net9.0\HomeWork_1.sourcelink.json
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_1\HomeWork_1\obj\Debug\net9.0\HomeWork_1.dll
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_1\HomeWork_1\obj\Debug\net9.0\refint\HomeWork_1.dll
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_1\HomeWork_1\obj\Debug\net9.0\HomeWork_1.pdb
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_1\HomeWork_1\obj\Debug\net9.0\HomeWork_1.genruntimeconfig.cache
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_1\HomeWork_1\obj\Debug\net9.0\ref\HomeWork_1.dll

@@ -1,0 +1,15 @@
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_DecimalNumber\bin\Debug\net9.0\HW_DecimalNumber.exe
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_DecimalNumber\bin\Debug\net9.0\HW_DecimalNumber.deps.json
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_DecimalNumber\bin\Debug\net9.0\HW_DecimalNumber.runtimeconfig.json
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_DecimalNumber\bin\Debug\net9.0\HW_DecimalNumber.dll
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_DecimalNumber\bin\Debug\net9.0\HW_DecimalNumber.pdb
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_DecimalNumber\obj\Debug\net9.0\HW_DecimalNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_DecimalNumber\obj\Debug\net9.0\HW_DecimalNumber.AssemblyInfoInputs.cache
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_DecimalNumber\obj\Debug\net9.0\HW_DecimalNumber.AssemblyInfo.cs
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_DecimalNumber\obj\Debug\net9.0\HW_DecimalNumber.csproj.CoreCompileInputs.cache
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_DecimalNumber\obj\Debug\net9.0\HW_DecimalNumber.sourcelink.json
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_DecimalNumber\obj\Debug\net9.0\HW_DecimalNumber.dll
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_DecimalNumber\obj\Debug\net9.0\refint\HW_DecimalNumber.dll
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_DecimalNumber\obj\Debug\net9.0\HW_DecimalNumber.pdb
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_DecimalNumber\obj\Debug\net9.0\HW_DecimalNumber.genruntimeconfig.cache
+C:\Users\lakai\OneDrive\Desktop\HillelNET\HomeWork_2\HW_DecimalNumber\obj\Debug\net9.0\ref\HW_DecimalNumber.dll
