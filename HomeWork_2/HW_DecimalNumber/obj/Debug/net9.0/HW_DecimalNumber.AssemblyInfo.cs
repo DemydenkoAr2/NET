@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HW_DecimalNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba7d1ae12e6c8f7659c3c05bd8356460385f7cf7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ae63d71998385eff65edce71f328907552c6be9")]
 [assembly: System.Reflection.AssemblyProductAttribute("HW_DecimalNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HW_DecimalNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
