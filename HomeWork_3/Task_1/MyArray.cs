@@ -1,6 +1,7 @@
-﻿namespace Task_1;
+﻿using System.Linq;
+namespace Task_1;
 
-public class MyArray : IOutput, IMath
+public class MyArray : IOutput, IMath, ISort
 {
     private int[] _array;
 
@@ -70,5 +71,27 @@ public class MyArray : IOutput, IMath
         }
         
         return false;
+    }
+
+    public void SortAsc()
+    {
+        _array = _array.OrderBy(x => x).ToArray();
+    }
+
+    public void SortDesc()
+    {
+        _array = _array.OrderByDescending(x => x).ToArray();
+    }
+
+    public void SortByParam(bool isAsc)
+    {
+        if (isAsc == true)
+        {
+            _array = _array.OrderBy(x => x).ToArray();
+        }
+        else
+        {
+            _array = _array.OrderByDescending(x => x).ToArray();
+        }
     }
 }

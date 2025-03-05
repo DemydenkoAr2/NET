@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        int[] arr = [10, 20, 30, 40, 50];
+        int[] arr = [15, 30, 20, 46, 50];
 
         MyArray myArray = new MyArray(arr);
         
@@ -17,5 +17,17 @@ class Program
 
         Console.WriteLine("Search for 30: " + myArray.Search(30)); // True
         Console.WriteLine("Search for 100: " + myArray.Search(100)); // False
+        
+        
+        myArray.SortAsc();
+        myArray.Show("Sorted by Asc");
+        
+        myArray.SortDesc();
+        myArray.Show("Sorted by Desc");
+        
+        myArray.SortByParam(true);
+        myArray.Show("Sorted by param - Asc");
+        
+        
     }
 }
