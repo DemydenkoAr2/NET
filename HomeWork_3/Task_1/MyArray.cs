@@ -12,18 +12,19 @@ public class MyArray : IOutput, IMath, ISort
 
     public void Show()
     {
-        Console.WriteLine("Array's elements: ");
+        Console.Write("Array's elements: ");
         foreach (var item in _array)
         {
             Console.Write(item + " ");
         }
+
         Console.WriteLine();
     }
 
     public void Show(string info)
     {
-        Console.WriteLine(info);
-        Console.WriteLine("Array's elements: ");
+        Console.Write(info);
+        Console.Write("Array's elements: ");
 
         foreach (var item in _array)
         {
@@ -52,24 +53,24 @@ public class MyArray : IOutput, IMath, ISort
         }
 
         float sumAvg = 0.0f;
-        
+
         foreach (var element in _array)
         {
             sumAvg += element;
         }
-        
+
         return sumAvg / _array.Length;
     }
 
     public bool Search(int valueToSearch)
     {
         if (_array.Length == 0) return false;
-        
+
         foreach (int value in _array)
         {
             if (value == valueToSearch) return true;
         }
-        
+
         return false;
     }
 
@@ -85,7 +86,7 @@ public class MyArray : IOutput, IMath, ISort
 
     public void SortByParam(bool isAsc)
     {
-        if (isAsc == true)
+        if (isAsc)
         {
             _array = _array.OrderBy(x => x).ToArray();
         }
@@ -93,5 +94,15 @@ public class MyArray : IOutput, IMath, ISort
         {
             _array = _array.OrderByDescending(x => x).ToArray();
         }
+    }
+
+    public string UnitTest(int[] expectedResult, int firstElement)
+    {
+        if (expectedResult.SequenceEqual(_array) && firstElement == _array[0])
+        {
+            return "Test Passed";
+        }
+        
+        return "Test Failed";
     }
 }
