@@ -5,7 +5,6 @@ class Program
     static void Main(string[] args)
     {
         int[] arr = [15, 30, 20, 46, 50];
-        
         int[] expectedResultAsc = [15, 20, 30, 46, 50];
         int[] expectedResultDesc = [50, 46, 30, 20, 15];
         
