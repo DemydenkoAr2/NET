@@ -1,0 +1,15 @@
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\SelfTask_Dimensions\bin\Debug\net8.0\SelfTask_Dimensions.exe
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\SelfTask_Dimensions\bin\Debug\net8.0\SelfTask_Dimensions.deps.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\SelfTask_Dimensions\bin\Debug\net8.0\SelfTask_Dimensions.runtimeconfig.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\SelfTask_Dimensions\bin\Debug\net8.0\SelfTask_Dimensions.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\SelfTask_Dimensions\bin\Debug\net8.0\SelfTask_Dimensions.pdb
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\SelfTask_Dimensions\obj\Debug\net8.0\SelfTask_Dimensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\SelfTask_Dimensions\obj\Debug\net8.0\SelfTask_Dimensions.AssemblyInfoInputs.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\SelfTask_Dimensions\obj\Debug\net8.0\SelfTask_Dimensions.AssemblyInfo.cs
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\SelfTask_Dimensions\obj\Debug\net8.0\SelfTask_Dimensions.csproj.CoreCompileInputs.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\SelfTask_Dimensions\obj\Debug\net8.0\SelfTask_Dimensions.sourcelink.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\SelfTask_Dimensions\obj\Debug\net8.0\SelfTask_Dimensions.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\SelfTask_Dimensions\obj\Debug\net8.0\refint\SelfTask_Dimensions.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\SelfTask_Dimensions\obj\Debug\net8.0\SelfTask_Dimensions.pdb
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\SelfTask_Dimensions\obj\Debug\net8.0\SelfTask_Dimensions.genruntimeconfig.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\SelfTask_Dimensions\obj\Debug\net8.0\ref\SelfTask_Dimensions.dll

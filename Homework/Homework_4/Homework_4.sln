@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_3_CreditCard", "Task_3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4_Matrix", "Task_4_Matrix\Task_4_Matrix.csproj", "{A302E2E4-8587-4EE7-9B28-A93277CABDB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfTask_Dimensions", "SelfTask_Dimensions\SelfTask_Dimensions.csproj", "{25274EF4-0425-4FDD-B4E7-58C1880DBFF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{A302E2E4-8587-4EE7-9B28-A93277CABDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A302E2E4-8587-4EE7-9B28-A93277CABDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A302E2E4-8587-4EE7-9B28-A93277CABDB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25274EF4-0425-4FDD-B4E7-58C1880DBFF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25274EF4-0425-4FDD-B4E7-58C1880DBFF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25274EF4-0425-4FDD-B4E7-58C1880DBFF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25274EF4-0425-4FDD-B4E7-58C1880DBFF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
