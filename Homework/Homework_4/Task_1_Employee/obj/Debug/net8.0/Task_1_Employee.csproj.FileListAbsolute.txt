@@ -1,0 +1,15 @@
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_1_Employee\bin\Debug\net8.0\Task_1_Employee.exe
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_1_Employee\bin\Debug\net8.0\Task_1_Employee.deps.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_1_Employee\bin\Debug\net8.0\Task_1_Employee.runtimeconfig.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_1_Employee\bin\Debug\net8.0\Task_1_Employee.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_1_Employee\bin\Debug\net8.0\Task_1_Employee.pdb
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_1_Employee\obj\Debug\net8.0\Task_1_Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_1_Employee\obj\Debug\net8.0\Task_1_Employee.AssemblyInfoInputs.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_1_Employee\obj\Debug\net8.0\Task_1_Employee.AssemblyInfo.cs
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_1_Employee\obj\Debug\net8.0\Task_1_Employee.csproj.CoreCompileInputs.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_1_Employee\obj\Debug\net8.0\Task_1_Employee.sourcelink.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_1_Employee\obj\Debug\net8.0\Task_1_Employee.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_1_Employee\obj\Debug\net8.0\refint\Task_1_Employee.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_1_Employee\obj\Debug\net8.0\Task_1_Employee.pdb
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_1_Employee\obj\Debug\net8.0\Task_1_Employee.genruntimeconfig.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_1_Employee\obj\Debug\net8.0\ref\Task_1_Employee.dll

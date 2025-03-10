@@ -1,0 +1,15 @@
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_2_City\bin\Debug\net8.0\Task_2_City.exe
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_2_City\bin\Debug\net8.0\Task_2_City.deps.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_2_City\bin\Debug\net8.0\Task_2_City.runtimeconfig.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_2_City\bin\Debug\net8.0\Task_2_City.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_2_City\bin\Debug\net8.0\Task_2_City.pdb
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_2_City\obj\Debug\net8.0\Task_2_City.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_2_City\obj\Debug\net8.0\Task_2_City.AssemblyInfoInputs.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_2_City\obj\Debug\net8.0\Task_2_City.AssemblyInfo.cs
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_2_City\obj\Debug\net8.0\Task_2_City.csproj.CoreCompileInputs.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_2_City\obj\Debug\net8.0\Task_2_City.sourcelink.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_2_City\obj\Debug\net8.0\Task_2_City.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_2_City\obj\Debug\net8.0\refint\Task_2_City.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_2_City\obj\Debug\net8.0\Task_2_City.pdb
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_2_City\obj\Debug\net8.0\Task_2_City.genruntimeconfig.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_2_City\obj\Debug\net8.0\ref\Task_2_City.dll
