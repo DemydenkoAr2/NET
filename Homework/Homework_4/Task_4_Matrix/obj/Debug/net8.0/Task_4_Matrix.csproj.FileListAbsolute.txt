@@ -1,0 +1,15 @@
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_4_Matrix\bin\Debug\net8.0\Task_4_Matrix.exe
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_4_Matrix\bin\Debug\net8.0\Task_4_Matrix.deps.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_4_Matrix\bin\Debug\net8.0\Task_4_Matrix.runtimeconfig.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_4_Matrix\bin\Debug\net8.0\Task_4_Matrix.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_4_Matrix\bin\Debug\net8.0\Task_4_Matrix.pdb
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_4_Matrix\obj\Debug\net8.0\Task_4_Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_4_Matrix\obj\Debug\net8.0\Task_4_Matrix.AssemblyInfoInputs.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_4_Matrix\obj\Debug\net8.0\Task_4_Matrix.AssemblyInfo.cs
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_4_Matrix\obj\Debug\net8.0\Task_4_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_4_Matrix\obj\Debug\net8.0\Task_4_Matrix.sourcelink.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_4_Matrix\obj\Debug\net8.0\Task_4_Matrix.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_4_Matrix\obj\Debug\net8.0\refint\Task_4_Matrix.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_4_Matrix\obj\Debug\net8.0\Task_4_Matrix.pdb
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_4_Matrix\obj\Debug\net8.0\Task_4_Matrix.genruntimeconfig.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_4_Matrix\obj\Debug\net8.0\ref\Task_4_Matrix.dll

@@ -1,0 +1,15 @@
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_3_CreditCard\bin\Debug\net8.0\Task_3_CreditCard.exe
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_3_CreditCard\bin\Debug\net8.0\Task_3_CreditCard.deps.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_3_CreditCard\bin\Debug\net8.0\Task_3_CreditCard.runtimeconfig.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_3_CreditCard\bin\Debug\net8.0\Task_3_CreditCard.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_3_CreditCard\bin\Debug\net8.0\Task_3_CreditCard.pdb
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_3_CreditCard\obj\Debug\net8.0\Task_3_CreditCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_3_CreditCard\obj\Debug\net8.0\Task_3_CreditCard.AssemblyInfoInputs.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_3_CreditCard\obj\Debug\net8.0\Task_3_CreditCard.AssemblyInfo.cs
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_3_CreditCard\obj\Debug\net8.0\Task_3_CreditCard.csproj.CoreCompileInputs.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_3_CreditCard\obj\Debug\net8.0\Task_3_CreditCard.sourcelink.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_3_CreditCard\obj\Debug\net8.0\Task_3_CreditCard.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_3_CreditCard\obj\Debug\net8.0\refint\Task_3_CreditCard.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_3_CreditCard\obj\Debug\net8.0\Task_3_CreditCard.pdb
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_3_CreditCard\obj\Debug\net8.0\Task_3_CreditCard.genruntimeconfig.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_4\Task_3_CreditCard\obj\Debug\net8.0\ref\Task_3_CreditCard.dll
