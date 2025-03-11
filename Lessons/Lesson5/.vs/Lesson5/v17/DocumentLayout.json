@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Lesson5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC30BDF1-DE91-480E-A433-5C86634815F9}|Lesson5\\Lesson5.csproj|c:\\users\\admin\\source\\repos\\lesson5\\lesson5\\usergenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC30BDF1-DE91-480E-A433-5C86634815F9}|Lesson5\\Lesson5.csproj|solutionrelative:lesson5\\usergenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC30BDF1-DE91-480E-A433-5C86634815F9}|Lesson5\\Lesson5.csproj|c:\\users\\admin\\source\\repos\\lesson5\\lesson5\\shopgenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC30BDF1-DE91-480E-A433-5C86634815F9}|Lesson5\\Lesson5.csproj|solutionrelative:lesson5\\shopgenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC30BDF1-DE91-480E-A433-5C86634815F9}|Lesson5\\Lesson5.csproj|c:\\users\\admin\\source\\repos\\lesson5\\lesson5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC30BDF1-DE91-480E-A433-5C86634815F9}|Lesson5\\Lesson5.csproj|solutionrelative:lesson5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC30BDF1-DE91-480E-A433-5C86634815F9}|Lesson5\\Lesson5.csproj|c:\\users\\admin\\source\\repos\\lesson5\\lesson5\\generictodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC30BDF1-DE91-480E-A433-5C86634815F9}|Lesson5\\Lesson5.csproj|solutionrelative:lesson5\\generictodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC30BDF1-DE91-480E-A433-5C86634815F9}|Lesson5\\Lesson5.csproj|c:\\users\\admin\\source\\repos\\lesson5\\lesson5\\contravarianceexamples\\example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC30BDF1-DE91-480E-A433-5C86634815F9}|Lesson5\\Lesson5.csproj|solutionrelative:lesson5\\contravarianceexamples\\example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC30BDF1-DE91-480E-A433-5C86634815F9}|Lesson5\\Lesson5.csproj|c:\\users\\admin\\source\\repos\\lesson5\\lesson5\\covarianceexamples\\example1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC30BDF1-DE91-480E-A433-5C86634815F9}|Lesson5\\Lesson5.csproj|solutionrelative:lesson5\\covarianceexamples\\example1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC30BDF1-DE91-480E-A433-5C86634815F9}|Lesson5\\Lesson5.csproj|c:\\users\\admin\\source\\repos\\lesson5\\lesson5\\genericsexamples\\example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC30BDF1-DE91-480E-A433-5C86634815F9}|Lesson5\\Lesson5.csproj|solutionrelative:lesson5\\genericsexamples\\example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC30BDF1-DE91-480E-A433-5C86634815F9}|Lesson5\\Lesson5.csproj|c:\\users\\admin\\source\\repos\\lesson5\\lesson5\\genericsexamples\\example1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC30BDF1-DE91-480E-A433-5C86634815F9}|Lesson5\\Lesson5.csproj|solutionrelative:lesson5\\genericsexamples\\example1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopGenerics.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Lesson5\\Lesson5\\ShopGenerics.cs",
+              "RelativeDocumentMoniker": "Lesson5\\ShopGenerics.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Lesson5\\Lesson5\\ShopGenerics.cs",
+              "RelativeToolTip": "Lesson5\\ShopGenerics.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAA8wHcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:51:44.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserGenerics.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Lesson5\\Lesson5\\UserGenerics.cs",
+              "RelativeDocumentMoniker": "Lesson5\\UserGenerics.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Lesson5\\Lesson5\\UserGenerics.cs",
+              "RelativeToolTip": "Lesson5\\UserGenerics.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:40:48.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericTodo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Lesson5\\Lesson5\\GenericTodo.cs",
+              "RelativeDocumentMoniker": "Lesson5\\GenericTodo.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Lesson5\\Lesson5\\GenericTodo.cs",
+              "RelativeToolTip": "Lesson5\\GenericTodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:20:41.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Example2.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Lesson5\\Lesson5\\ContravarianceExamples\\Example2.cs",
+              "RelativeDocumentMoniker": "Lesson5\\ContravarianceExamples\\Example2.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Lesson5\\Lesson5\\ContravarianceExamples\\Example2.cs",
+              "RelativeToolTip": "Lesson5\\ContravarianceExamples\\Example2.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:17:43.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Example1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Lesson5\\Lesson5\\CovarianceExamples\\Example1.cs",
+              "RelativeDocumentMoniker": "Lesson5\\CovarianceExamples\\Example1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Lesson5\\Lesson5\\CovarianceExamples\\Example1.cs",
+              "RelativeToolTip": "Lesson5\\CovarianceExamples\\Example1.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAA5wFMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:16:50.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Example2.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Lesson5\\Lesson5\\GenericsExamples\\Example2.cs",
+              "RelativeDocumentMoniker": "Lesson5\\GenericsExamples\\Example2.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Lesson5\\Lesson5\\GenericsExamples\\Example2.cs",
+              "RelativeToolTip": "Lesson5\\GenericsExamples\\Example2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:15:27.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Example1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Lesson5\\Lesson5\\GenericsExamples\\Example1.cs",
+              "RelativeDocumentMoniker": "Lesson5\\GenericsExamples\\Example1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Lesson5\\Lesson5\\GenericsExamples\\Example1.cs",
+              "RelativeToolTip": "Lesson5\\GenericsExamples\\Example1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:13:52.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Lesson5\\Lesson5\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson5\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Lesson5\\Lesson5\\Program.cs",
+              "RelativeToolTip": "Lesson5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:09:07.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
