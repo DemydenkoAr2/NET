@@ -1,0 +1,26 @@
+[
+  {
+    "IllnessType": 2,
+    "AdditionalInfo": null,
+    "Address": null,
+    "Name": "ar",
+    "Surname": "d",
+    "Phone": "sda",
+    "Email": "sd",
+    "Id": 2,
+    "CreatedAt": "2025-03-16T13:34:54.140936-10:00",
+    "UpdatedAt": "2025-03-16T13:34:54.1403262-10:00"
+  },
+  {
+    "IllnessType": 3,
+    "AdditionalInfo": null,
+    "Address": null,
+    "Name": "Bob",
+    "Surname": "Tanner",
+    "Phone": "925",
+    "Email": "email@com",
+    "Id": 3,
+    "CreatedAt": "2025-03-16T15:12:39.4444046-10:00",
+    "UpdatedAt": "2025-03-16T15:12:39.4439082-10:00"
+  }
+]
