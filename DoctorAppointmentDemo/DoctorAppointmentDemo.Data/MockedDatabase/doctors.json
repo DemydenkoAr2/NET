@@ -1,15 +1,15 @@
 [
   {
-    "DoctorType": 1,
-    "Experience": 20,
-    "Salary": 0.0,
-    "Name": "Vasya",
-    "Surname": "Petrov",
-    "Phone": null,
-    "Email": null,
+    "DoctorType": 0,
+    "Experience": 4,
+    "Salary": 4.0,
+    "Name": "Test",
+    "Surname": "test",
+    "Phone": "3423",
+    "Email": "err",
     "Id": 2,
-    "CreatedAt": "2024-01-04T21:15:00.5742047+02:00",
-    "UpdatedAt": "0001-01-01T00:00:00"
+    "CreatedAt": "2025-03-16T10:40:02.3590199-10:00",
+    "UpdatedAt": "2025-03-16T10:40:02.3604663-10:00"
   },
   {
     "DoctorType": 1,
@@ -20,7 +20,31 @@
     "Phone": null,
     "Email": null,
     "Id": 3,
-    "CreatedAt": "2024-01-04T21:15:10.6132587+02:00",
+    "CreatedAt": "2024-01-04T09:15:10.6132587-10:00",
     "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 1,
+    "Experience": 20,
+    "Salary": 0.0,
+    "Name": "Vasya",
+    "Surname": "Petrov",
+    "Phone": null,
+    "Email": null,
+    "Id": 4,
+    "CreatedAt": "2025-03-15T23:09:58.8673674-10:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 1,
+    "Experience": 3,
+    "Salary": 34.0,
+    "Name": "Test",
+    "Surname": "Test",
+    "Phone": "dsa",
+    "Email": "dda",
+    "Id": 7,
+    "CreatedAt": "2025-03-16T13:08:43.1237454-10:00",
+    "UpdatedAt": "2025-03-16T13:08:43.1231103-10:00"
   }
 ]

@@ -1,15 +1,15 @@
-﻿using MyDoctorAppointment.Data.Interfaces;
-using MyDoctorAppointment.Data.Repositories;
-using MyDoctorAppointment.Domain.Entities;
-using MyDoctorAppointment.Service.Interfaces;
+﻿using DoctorAppointmentDemo.Data.Interfaces;
+using DoctorAppointmentDemo.Data.Repositories;
+using DoctorAppointmentDemo.Domain.Entities;
+using DoctorAppointmentDemo.Service.Interfaces;
 
-namespace MyDoctorAppointment.Service.Services
+namespace DoctorAppointmentDemo.Service.Services
 {
     public class DoctorService : IDoctorService
     {
         private readonly IDoctorRepository _doctorRepository;
 
-        public DoctorService()
+        public DoctorService(DoctorRepository doctorRepository)
         {
             _doctorRepository = new DoctorRepository();
         }
@@ -31,6 +31,7 @@ namespace MyDoctorAppointment.Service.Services
 
         public IEnumerable<Doctor> GetAll()
         {
+            
             return _doctorRepository.GetAll();
         }
 

@@ -9,3 +9,15 @@ C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\o
 C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\refint\DoctorAppointmentDemo.Domain.dll
 C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
 C:\Users\admin\source\repos\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\ref\DoctorAppointmentDemo.Domain.dll
+C:\Users\lakai\RiderProjects\HillelNET\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.deps.json
+C:\Users\lakai\RiderProjects\HillelNET\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.dll
+C:\Users\lakai\RiderProjects\HillelNET\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
+C:\Users\lakai\RiderProjects\HillelNET\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakai\RiderProjects\HillelNET\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\lakai\RiderProjects\HillelNET\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.AssemblyInfo.cs
+C:\Users\lakai\RiderProjects\HillelNET\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lakai\RiderProjects\HillelNET\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.sourcelink.json
+C:\Users\lakai\RiderProjects\HillelNET\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.dll
+C:\Users\lakai\RiderProjects\HillelNET\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\refint\DoctorAppointmentDemo.Domain.dll
+C:\Users\lakai\RiderProjects\HillelNET\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
+C:\Users\lakai\RiderProjects\HillelNET\DoctorAppointmentDemo\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\ref\DoctorAppointmentDemo.Domain.dll

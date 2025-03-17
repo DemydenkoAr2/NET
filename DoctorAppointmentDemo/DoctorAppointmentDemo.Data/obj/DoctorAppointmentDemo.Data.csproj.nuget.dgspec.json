@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lakai\\OneDrive\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj": {}
+    "C:\\Users\\lakai\\RiderProjects\\HillelNET\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lakai\\OneDrive\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj": {
+    "C:\\Users\\lakai\\RiderProjects\\HillelNET\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lakai\\OneDrive\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj",
+        "projectUniqueName": "C:\\Users\\lakai\\RiderProjects\\HillelNET\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj",
         "projectName": "DoctorAppointmentDemo.Data",
-        "projectPath": "C:\\Users\\lakai\\OneDrive\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj",
+        "projectPath": "C:\\Users\\lakai\\RiderProjects\\HillelNET\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\DoctorAppointmentDemo.Data.csproj",
         "packagesPath": "C:\\Users\\lakai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lakai\\OneDrive\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\obj\\",
+        "outputPath": "C:\\Users\\lakai\\RiderProjects\\HillelNET\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\lakai\\OneDrive\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj": {
-                "projectPath": "C:\\Users\\lakai\\OneDrive\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj"
+              "C:\\Users\\lakai\\RiderProjects\\HillelNET\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj": {
+                "projectPath": "C:\\Users\\lakai\\RiderProjects\\HillelNET\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\lakai\\OneDrive\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj": {
+    "C:\\Users\\lakai\\RiderProjects\\HillelNET\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lakai\\OneDrive\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\lakai\\RiderProjects\\HillelNET\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj",
         "projectName": "DoctorAppointmentDemo.Domain",
-        "projectPath": "C:\\Users\\lakai\\OneDrive\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj",
+        "projectPath": "C:\\Users\\lakai\\RiderProjects\\HillelNET\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\DoctorAppointmentDemo.Domain.csproj",
         "packagesPath": "C:\\Users\\lakai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lakai\\OneDrive\\Desktop\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\obj\\",
+        "outputPath": "C:\\Users\\lakai\\RiderProjects\\HillelNET\\DoctorAppointmentDemo\\DoctorAppointmentDemo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

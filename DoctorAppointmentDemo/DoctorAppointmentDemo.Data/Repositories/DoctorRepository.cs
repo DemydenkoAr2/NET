@@ -1,8 +1,9 @@
-﻿using MyDoctorAppointment.Data.Configuration;
-using MyDoctorAppointment.Data.Interfaces;
-using MyDoctorAppointment.Domain.Entities;
+﻿using System.Threading.Channels;
+using DoctorAppointmentDemo.Data.Configuration;
+using DoctorAppointmentDemo.Data.Interfaces;
+using DoctorAppointmentDemo.Domain.Entities;
 
-namespace MyDoctorAppointment.Data.Repositories
+namespace DoctorAppointmentDemo.Data.Repositories
 {
     public class DoctorRepository : GenericRepository<Doctor>, IDoctorRepository
     {
@@ -20,7 +21,10 @@ namespace MyDoctorAppointment.Data.Repositories
 
         public override void ShowInfo(Doctor doctor)
         {
-            Console.WriteLine(); // implement view of all object fields
+             Console.WriteLine($"Id: {doctor.Id}, Name: {doctor.Name}, " +
+                               $"Doctor Type: {doctor.DoctorType}, " +
+                               $"Email: {doctor.Email}, Phone: {doctor.Phone}, " +
+                               $"Experience: {doctor.Experience}");
         }
 
         protected override void SaveLastId()
