@@ -1,0 +1,15 @@
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_2_Shop\bin\Debug\net8.0\Task_2_Shop.exe
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_2_Shop\bin\Debug\net8.0\Task_2_Shop.deps.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_2_Shop\bin\Debug\net8.0\Task_2_Shop.runtimeconfig.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_2_Shop\bin\Debug\net8.0\Task_2_Shop.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_2_Shop\bin\Debug\net8.0\Task_2_Shop.pdb
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_2_Shop\obj\Debug\net8.0\Task_2_Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_2_Shop\obj\Debug\net8.0\Task_2_Shop.AssemblyInfoInputs.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_2_Shop\obj\Debug\net8.0\Task_2_Shop.AssemblyInfo.cs
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_2_Shop\obj\Debug\net8.0\Task_2_Shop.csproj.CoreCompileInputs.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_2_Shop\obj\Debug\net8.0\Task_2_Shop.sourcelink.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_2_Shop\obj\Debug\net8.0\Task_2_Shop.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_2_Shop\obj\Debug\net8.0\refint\Task_2_Shop.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_2_Shop\obj\Debug\net8.0\Task_2_Shop.pdb
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_2_Shop\obj\Debug\net8.0\Task_2_Shop.genruntimeconfig.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_2_Shop\obj\Debug\net8.0\ref\Task_2_Shop.dll

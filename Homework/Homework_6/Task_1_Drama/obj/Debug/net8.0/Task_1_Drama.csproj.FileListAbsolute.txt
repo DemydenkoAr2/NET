@@ -1,0 +1,15 @@
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_1_Drama\bin\Debug\net8.0\Task_1_Drama.exe
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_1_Drama\bin\Debug\net8.0\Task_1_Drama.deps.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_1_Drama\bin\Debug\net8.0\Task_1_Drama.runtimeconfig.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_1_Drama\bin\Debug\net8.0\Task_1_Drama.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_1_Drama\bin\Debug\net8.0\Task_1_Drama.pdb
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_1_Drama\obj\Debug\net8.0\Task_1_Drama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_1_Drama\obj\Debug\net8.0\Task_1_Drama.AssemblyInfoInputs.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_1_Drama\obj\Debug\net8.0\Task_1_Drama.AssemblyInfo.cs
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_1_Drama\obj\Debug\net8.0\Task_1_Drama.csproj.CoreCompileInputs.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_1_Drama\obj\Debug\net8.0\Task_1_Drama.sourcelink.json
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_1_Drama\obj\Debug\net8.0\Task_1_Drama.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_1_Drama\obj\Debug\net8.0\refint\Task_1_Drama.dll
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_1_Drama\obj\Debug\net8.0\Task_1_Drama.pdb
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_1_Drama\obj\Debug\net8.0\Task_1_Drama.genruntimeconfig.cache
+C:\Users\lakai\RiderProjects\HillelNET\Homework\Homework_6\Task_1_Drama\obj\Debug\net8.0\ref\Task_1_Drama.dll
