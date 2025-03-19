@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1_Drama", "Task_1_Drama\Task_1_Drama.csproj", "{8D8849F8-F9A7-43A1-8A2F-C20A49F40594}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2_Shop", "Task_2_Shop\Task_2_Shop.csproj", "{1C6BBDFB-83CE-4BEA-BE48-801670AF0C7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D8849F8-F9A7-43A1-8A2F-C20A49F40594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8849F8-F9A7-43A1-8A2F-C20A49F40594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8849F8-F9A7-43A1-8A2F-C20A49F40594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8849F8-F9A7-43A1-8A2F-C20A49F40594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6BBDFB-83CE-4BEA-BE48-801670AF0C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6BBDFB-83CE-4BEA-BE48-801670AF0C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6BBDFB-83CE-4BEA-BE48-801670AF0C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6BBDFB-83CE-4BEA-BE48-801670AF0C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
