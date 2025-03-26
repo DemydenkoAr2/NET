@@ -4,24 +4,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        Play play = new Play("Romeo and Juliet", "William Shakespeare", "Tragedy", 1597);
-        
-        play.DisplayInfo();
+        using (Play drama = new Play("Romeo and Juliet", "William Shakespeare", "Tragedy", 1597))
+        {
+            drama.DisplayInfo();
+            drama.ChangeTitle("Hamlet");
+            drama.ChangeYear(1598);
 
-        play.ChangeTitle("Hamlet");
-
-        play.ChangeYear(1603);
-
-        Console.WriteLine("\nUpdated play information:");
-        play.DisplayInfo();
-        play = null;
-        
-        
-        GC.Collect();
-        GC.WaitForPendingFinalizers(); 
-        
-        Thread.Sleep(1000); 
-
-        Console.WriteLine("Program completed.");
+            using (Play comedy = new ("The Naked Gun", "Jerry Zucker", "Comedy", 1988))
+            {
+                comedy.DisplayInfo();
+            }
+        }
     }
 }
