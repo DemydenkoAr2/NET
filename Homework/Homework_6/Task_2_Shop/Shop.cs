@@ -2,6 +2,8 @@
 
 public class Shop : IDisposable
 {
+    private bool _disposed = false;
+    
     private string CompanyName { get; set; }
     private string Location { get; set; }
     private string Type { get; set; }
@@ -13,7 +15,6 @@ public class Shop : IDisposable
         Location = location;
         Type = type;
         Phones = phones;
-        Console.WriteLine($"Shop \"{CompanyName}\" created.");
     }
     
     ~Shop()
@@ -23,14 +24,31 @@ public class Shop : IDisposable
     
     public void Dispose()
     {
-        Console.WriteLine($"Shop \"{CompanyName}\" disposed via Dispose.");
-        GC.SuppressFinalize(this); // Prevent the destructor from being called
+        Dispose(true);
+        GC.SuppressFinalize(this);
     }
 
+    protected virtual void Dispose(bool disposing)
+    {
+        if (!_disposed)
+        {
+            if (disposing)
+            {
+                Console.WriteLine($"Shop \"{CompanyName}\" disposed via Dispose.");
+            }
+            
+            _disposed = true;
+        }
+    }
+    
     public void DisplayInfo()
     {
-        Console.WriteLine($"Name: {CompanyName}");
-        Console.WriteLine($"Address: {Location}");
-        Console.WriteLine($"Type: {Type}");
+        Console.WriteLine($"Name: {CompanyName}, Location: {Location},  Type: {Type}");
+    }
+
+    public void UpdateInfo(string newLocation, string newType)
+    {
+        Location = newLocation;
+        Type = newType;
     }
 }
