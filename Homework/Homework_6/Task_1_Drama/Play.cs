@@ -2,6 +2,7 @@
 
 public class Play : IDisposable
 {
+    private bool _disposed = false;
     private string Title { get; set; }
     private string Author { get; set; }
     private string Genre { get; set; }
@@ -13,7 +14,6 @@ public class Play : IDisposable
         Author = author;
         Genre = genre;
         Year = year;
-        Console.WriteLine($"Play \"{Title}\" created.");
     }
 
     // Destructor
@@ -24,16 +24,26 @@ public class Play : IDisposable
 
     public void Dispose()
     {
-        Console.WriteLine($"П'єса \"{Title}\" видалена через Dispose.");
-        GC.SuppressFinalize(this); // Відміна виклику деструктора
+        Dispose(true);
+        GC.SuppressFinalize(this);
+    }
+
+    public virtual void Dispose(bool disposing)
+    {
+        if (!_disposed)
+        {
+            if (disposing)
+            {
+                Console.WriteLine($"Play \"{Title}\" destroyed. Author: {Author}, genre: {Genre}, year: {Year}");
+            }
+            
+            _disposed = true;
+        }
     }
 
     public void DisplayInfo()
     {
-        Console.WriteLine($"Title: {Title}");
-        Console.WriteLine($"Author: {Author}");
-        Console.WriteLine($"Genre: {Genre}");
-        Console.WriteLine($"Year: {Year}");
+        Console.WriteLine($"Title: {Title}, Author: {Author}, Genre: {Genre}, Year: {Year}");
     }
 
     public void ChangeTitle(string newTitle)
