@@ -1,0 +1,14 @@
+C:\Users\admin\Downloads\CSharpPro (1)\Lesson7\bin\Debug\net7.0\Lesson7.exe
+C:\Users\admin\Downloads\CSharpPro (1)\Lesson7\bin\Debug\net7.0\Lesson7.deps.json
+C:\Users\admin\Downloads\CSharpPro (1)\Lesson7\bin\Debug\net7.0\Lesson7.runtimeconfig.json
+C:\Users\admin\Downloads\CSharpPro (1)\Lesson7\bin\Debug\net7.0\Lesson7.dll
+C:\Users\admin\Downloads\CSharpPro (1)\Lesson7\bin\Debug\net7.0\Lesson7.pdb
+C:\Users\admin\Downloads\CSharpPro (1)\Lesson7\obj\Debug\net7.0\Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\CSharpPro (1)\Lesson7\obj\Debug\net7.0\Lesson7.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\CSharpPro (1)\Lesson7\obj\Debug\net7.0\Lesson7.AssemblyInfo.cs
+C:\Users\admin\Downloads\CSharpPro (1)\Lesson7\obj\Debug\net7.0\Lesson7.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\CSharpPro (1)\Lesson7\obj\Debug\net7.0\Lesson7.dll
+C:\Users\admin\Downloads\CSharpPro (1)\Lesson7\obj\Debug\net7.0\refint\Lesson7.dll
+C:\Users\admin\Downloads\CSharpPro (1)\Lesson7\obj\Debug\net7.0\Lesson7.pdb
+C:\Users\admin\Downloads\CSharpPro (1)\Lesson7\obj\Debug\net7.0\Lesson7.genruntimeconfig.cache
+C:\Users\admin\Downloads\CSharpPro (1)\Lesson7\obj\Debug\net7.0\ref\Lesson7.dll
