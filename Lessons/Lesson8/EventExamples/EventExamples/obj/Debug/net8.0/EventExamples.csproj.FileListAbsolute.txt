@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\EventExamples\EventExamples\bin\Debug\net8.0\EventExamples.exe
+C:\Users\admin\source\repos\EventExamples\EventExamples\bin\Debug\net8.0\EventExamples.deps.json
+C:\Users\admin\source\repos\EventExamples\EventExamples\bin\Debug\net8.0\EventExamples.runtimeconfig.json
+C:\Users\admin\source\repos\EventExamples\EventExamples\bin\Debug\net8.0\EventExamples.dll
+C:\Users\admin\source\repos\EventExamples\EventExamples\bin\Debug\net8.0\EventExamples.pdb
+C:\Users\admin\source\repos\EventExamples\EventExamples\obj\Debug\net8.0\EventExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\EventExamples\EventExamples\obj\Debug\net8.0\EventExamples.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\EventExamples\EventExamples\obj\Debug\net8.0\EventExamples.AssemblyInfo.cs
+C:\Users\admin\source\repos\EventExamples\EventExamples\obj\Debug\net8.0\EventExamples.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\EventExamples\EventExamples\obj\Debug\net8.0\EventExamples.dll
+C:\Users\admin\source\repos\EventExamples\EventExamples\obj\Debug\net8.0\refint\EventExamples.dll
+C:\Users\admin\source\repos\EventExamples\EventExamples\obj\Debug\net8.0\EventExamples.pdb
+C:\Users\admin\source\repos\EventExamples\EventExamples\obj\Debug\net8.0\EventExamples.genruntimeconfig.cache
+C:\Users\admin\source\repos\EventExamples\EventExamples\obj\Debug\net8.0\ref\EventExamples.dll
