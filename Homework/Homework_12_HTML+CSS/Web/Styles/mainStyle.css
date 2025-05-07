@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: "Roboto", sans-serif;
+    /* font-optical-sizing: auto; */
+    font-style: normal;
+    line-height: 1.5;
+    font-size: 16px;
+    color: #222;
+    background-color: #f7f9fb;
+}
+
+.section {
+    margin: 0 auto;
+    padding: 20px 20px;
+    max-width: 1000px;
+    width: 100%;
+}
+
+.container {
+    max-width: 100%;
+}
+
+.wrap-img {
+    width: auto;
+    height: auto;
+    flex-shrink: 0;
+}
+
+.img {
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+    width: auto;
+    border-radius: 8px;
+}
+
+.container-title {
+    display: flex;
+    background-color: #e0fbf2;
+    border-radius: 8px;
+    padding: 20px;
+    flex-wrap: wrap;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    border: 1px solid #c1f0e3;
+}
+
+.container-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 0 10px;
+}
+
+.wrap-img_avatar {
+    max-width: 300px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.container-description {
+    font-size: 24px;
+}
+
+h3 {
+    padding: 0 0 10px 0;
+    font-size: 24px;
+}
+
+.section-main {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.container-skils {
+    max-width: 300px;
+    width: 100%;
+}
+
+.aducation {
+    max-width: 300px;
+    width: 100%;
+}
+
+.container-job_column {
+    width: 100%;
+    padding: 0 10px;
+}
+
+.wraper-skils {
+    padding: 0 0 10px 0;
+}
+
+.wraper-skils ul li {
+    padding: 0 0 5px 0;
+}
+
+.wraper-skils ul li:last-child {
+    padding: 0;
+}
+
+.wraper-text {
+    padding: 0 0 10px 0;
+}
+
+.wraper-text_job ul {
+    list-style-type: disc;
+    padding-left: 1.5em;
+}
+
+.wraper-text_job ul li {
+    padding: 0 0 5px 0;
+}
+
+.wraper-text_job ul li:last-child {
+    padding: 0;
+}
+
+.wraper-title_job {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 0 5px 0;
+}
+
+.section-skills {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+@media (max-width: 768px) {
+	.section-main {
+	  flex-direction: column;
+	}
+  
+	.container-skils {
+	  max-width: 100%;
+	}
+  
+	.container-title {
+	  flex-direction: column;
+	  align-items: center;
+	  text-align: center;
+	  max-height: 1000px !important;
+	}
+  
+	.wrap-img_avatar {
+	  margin-bottom: 10px;
+	}
+  
+	.wraper-title_job {
+	  flex-direction: column;
+	  gap: 4px;
+	}
+  }
